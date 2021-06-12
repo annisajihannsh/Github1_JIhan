@@ -23,7 +23,7 @@
     <body>
         <div class="jumbotron jumbotron-fluid " color=pink-100>
             <div class="container text-center">
-                <img src="foto.jpg" width="200">
+                <img src="outfit.jpg" width="200">
                 <h1 class="display-4">LIST CUSTOMER</h1>
                 <p class="lead">Customer In PCR MART</p>
             </div>
